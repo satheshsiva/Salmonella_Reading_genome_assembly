@@ -7,7 +7,7 @@ Date:   "Nov 27, 2019"
 ## Results.
 
 ### Reading Strains harbor extra-chromosomal DNA.
-All strains harbor one 4.68MB chromosome with one or more small contigs. Length of the small contigs vary from ~10 - 1.5 KB. Four post outbreak strains (SX444, 45, 47 & 48) contain a small 134bp sequence with very high read coverage. The plasmid type of each strain were analyzed using Abricate, results were documented in "Notebook/Reading_Assembly_Results_10232019.xlsx" (sheet-Abricate_Result).
+All strains harbor one 4.68MB chromosome with one or more small contigs. Length of the small contigs vary from ~10 - 1.5 KB. Four post outbreak strains (SX444, 45, 47 & 48) contain a small 134bp sequence with very high read coverage. The plasmid type of each strain were analyzed using Abricate, results were documented in "Reading_Assembly_Results_10232019.xlsx" (sheet-Abricate_Result).
 
 | Strain | Chro | Length  | Coverage | Circular |
 |--------|------|---------|----------|----------|
@@ -57,10 +57,10 @@ Reading genomes were annotated using Prokka, result GFF files were located on //
 ### A stretch of Phage-like genes were missing in post-outbreak strains.
 Pan-genome analysis to identify genome difference between pre- and post-outbreak using Roary. Our analysis revealed a stretch of phage-like genes (31 genes) were missing from the post-outbreak strains. A couple of genes (hypothetical proteins) were inserted specifically to post-outbreak strains.
 
-CirA which encodes colicin I receptor was truncated in the pre-outbreak Reading strains. The results were documented in "Notebook/Reading_Assembly_Results_10232019.xlsx" (sheets: Present and absent & Length_Differences).
+CirA which encodes colicin I receptor was truncated in the pre-outbreak Reading strains. The results were documented in "Reading_Assembly_Results_10232019.xlsx" (sheets: Present and absent & Length_Differences).
 
 ### SNP analysis.
-Our analysis found 12 SNPs were different between pre- and post-outbreak strains. Deep analysis and interpretation are required to further establish SNP based results. The SNP results were documented in "Notebook/Reading_Assembly_Results_10232019.xlsx" (sheets: SNP Chro1 & SNP Chro3).
+Our analysis found 12 SNPs were different between pre- and post-outbreak strains. Deep analysis and interpretation are required to further establish SNP based results. The SNP results were documented in "Reading_Assembly_Results_10232019.xlsx" (sheets: SNP Chro1 & SNP Chro3).
 
 
 ### ABricate results.
