@@ -7,7 +7,7 @@ Author: "Sathesh K. Sivasankaran"
 ## Background
 Goal of this project is to identify genomic variation (difference from gene to SNP level) between Salmonella Reading strains from before and after pork (2016) outbreak.
 
-This work is published in Frontiers in Microbiology (2024)
+## This work is published in Frontiers in Microbiology.
 Sivasankaran SK, Bearson BL, Trachsel JM, Nielsen DW, Looft T, Bearson SMD. 
 Genomic and phenotypic characterization of multidrug-resistant Salmonella enterica serovar Reading isolates involved in a turkey-associated foodborne outbreak. 
 Front Microbiol. 2024 Jan 18;14:1304029. doi: 10.3389/fmicb.2023.1304029. PMID: 38304860; PMCID: PMC10830755.
