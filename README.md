@@ -34,7 +34,3 @@ Front Microbiol. 2024 Jan 18;14:1304029. doi: 10.3389/fmicb.2023.1304029. PMID: 
 | SX447       | 590543208      | FSIS21923895 | Salmonella  | Reading        | 3.20.2019  | JLGX01.0098  | Yes                          | SRR8841130 | SAMN11322253 | Comminuted Turkey           | SD    | blaTEM-1     |
 | SX448       | 853366168      | FSIS31901759 | Salmonella  | Reading        | 3.20.2019  | JLGX01.0098  | Yes                          | SRR8856823 | SAMN11347671 | Comminuted Turkey           | MN    |              |
 
-## File locations
-Fastq:     //.  
-Analysis:  //.  
-Results:   //.
